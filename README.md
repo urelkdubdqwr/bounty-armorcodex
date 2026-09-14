@@ -1,3 +1,5 @@
+<img src="assets/header.svg" alt="ARMORCODEX DEMO — bounty shipped" width="100%">
+
 # armorcodex-demo
 
 End-to-end demo of [ArmorCodex](https://github.com/armoriq/armorCodex) — intent-based Bash security for OpenAI Codex — built for the ArmorIQ content contest (First Dollar, Sep 2026).
