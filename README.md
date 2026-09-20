@@ -1,4 +1,6 @@
-# ArmorCodex Demo — STUDIO PINGGIR KASUR 🛏️
+# STUDIO PINGGIR KASUR 🛏️
+
+## ArmorCodex — intent-based Bash security buat Codex.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
