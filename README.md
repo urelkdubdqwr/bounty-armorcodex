@@ -1,4 +1,4 @@
-# STUDIO PINGGIR KASUR 🛏️
+# ArmorCodex Demo - Bash Security buat Codex
 
 ## ArmorCodex — intent-based Bash security buat Codex.
 
