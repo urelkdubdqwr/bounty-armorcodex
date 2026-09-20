@@ -1,6 +1,4 @@
-<img src="assets/header.svg" alt="ARMORCODEX DEMO — bounty shipped" width="100%">
-
-# armorcodex-demo
+# ArmorCodex Demo — STUDIO PINGGIR KASUR 🛏️
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
