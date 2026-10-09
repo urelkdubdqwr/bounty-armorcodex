@@ -35,21 +35,7 @@ bwrap sandbox failures can mask enforcement in test results.
 
 ## How it works
 
-```mermaid
-flowchart TD
-    U["user prompt"] -->|"UserPromptSubmit"| POL["armor policy list / add / template<br/>staged as diff"]
-    POL -->|"apply"| HG["human types `armor yes`<br/>agent cannot self-apply"]
-    U --> REG["Codex registers intent plan<br/>mcp__armorcodex-policy__register_intent_plan"]
-    REG --> CALL["Bash tool call"]
-    CALL -->|"PreToolUse"| CHK{"matches plan + policy?"}
-    CHK -->|"on-plan"| RUN["executes · echo planned-ok · exit 0"]
-    CHK -->|"off-plan e.g. whoami"| MODE{"ARMORCODEX_MODE"}
-    MODE -->|"enforce (default)"| DENY["permissionDecision: deny<br/>never executed"]
-    MODE -->|"monitor"| LOG["runs · logged only"]
-    DENY -.->|"malformed/missing payload also fails closed"| DENY
-    RUN --> AUD["runtime.json audit trail on disk"]
-    LOG --> AUD
-```
+![bounty-armorcodex architecture](assets/ecosystem.png)
 
 enforce (default) blocks, monitor logs — one env var flips it. Details, evidence and
 the full challenge/fix log live in [`REPORT.md`](REPORT.md).
