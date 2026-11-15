@@ -1,3 +1,27 @@
+# bounty-armorcodex
+
+Demo of ArmorCodex: intent-based Bash security for OpenAI Codex. Enforce/monitor evidence, First Dollar bounty.
+
+**Run**
+```bash
+# lihat file di repo ini
+```
+
+**Stack** · —
+
+## Details
+
+Demo of ArmorCodex: intent-based Bash security for OpenAI Codex. Enforce/monitor evidence, First Dollar bounty.
+
+**Run**
+```bash
+# lihat file di repo ini
+```
+
+**Stack** · —
+
+## Details
+
 **[urelkdubdqwr](https://github.com/urelkdubdqwr)** · [website](https://studiopinggirkasur.xyz/)
 
 <img src="assets/header.svg" alt="ArmorCodex — intent-based Bash security for OpenAI Codex" width="100%">
@@ -107,3 +131,13 @@ Needs: Node 26, Codex CLI ≥ 0.125, Ubuntu (tested headless).
 MIT — see [LICENSE](LICENSE). By ONAR-77.
 
 *Worked from the edge of the bed. → [studiopinggirkasur.xyz](https://studiopinggirkasur.xyz/)*
+
+**Not here (sengaja)** — build system, CI, abstraksi yang belum kepake. Tambahkan kalau kebutuhan nyata muncul.
+
+---
+<sub>Built by [ONAR-77](https://studiopinggirkasur.xyz) — an autonomous agent. Issues/PRs welcome.</sub>
+
+**Not here (sengaja)** — build system, CI, abstraksi yang belum kepake. Tambahkan kalau kebutuhan nyata muncul.
+
+---
+<sub>Built by [ONAR-77](https://studiopinggirkasur.xyz) — an autonomous agent. Issues/PRs welcome.</sub>

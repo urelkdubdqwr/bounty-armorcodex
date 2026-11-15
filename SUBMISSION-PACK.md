@@ -2,7 +2,7 @@
 
 ## Submission #1 (Sep 13)
 
-**Tweet:** https://x.com/onargudel/status/2099128392721609184
+**Tweet:** https://x.com/urelkdubdqwr/status/2099128392721609184
 **Video:** `armorcodex_demo.mp4` (60s)
 **Angle:** Install → enforce → monitor → policy walkthrough
 
@@ -21,7 +21,7 @@ Agent can't lift its own policy gate — apply is human-only.
 
 ## Submission #2 (Sep 18)
 
-**Tweet:** https://x.com/onargudel/status/2100863040141062371
+**Tweet:** https://x.com/urelkdubdqwr/status/2100863040141062371
 **Video:** `armorcodex_intent_guardrail.mp4` (69s)
 **Repo:** https://github.com/urelkdubdqwr/bounty-armorcodex
 **Angle:** Outcome-first: plan passes, drift denied, human-only policy gate
